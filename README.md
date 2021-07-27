@@ -7,12 +7,8 @@
 </p>
 <p align="center">
  
-### menu
- <img src="https://github.com/MRVIVEK-CODER/XDF/blob/main/.ppk/Screenshot_20210613-094939.jpg" width="640" title="Menu" alt="Menu">
-</p>
- 
-#### Results
- <img src="https://github.com/MRVIVEK-CODER/XDF/blob/main/.ppk/Screenshot_20210613-023522.jpg" width="640" title="Menu" alt="Menu">
+### Main Menu
+ <img src="https://github.com/MRVIVEK-CODER/THREEIN1/blob/main/Screenshot_20210725-105740.jpg" width="640" title="Menu" alt="Menu">
 </p>
  
 ###### notice me: if you get cp results, save 3/7 days then log in.
@@ -20,20 +16,20 @@
 <a href="https://github.com/MRVIVEK-CODER/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MRVIVEK-CODER?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/MRVIVEK-CODER/termux-style/stargazers/">
-  <a href="https://github.com/MRVIVEK-CODER/XDF">
+  <a href="https://github.com/MRVIVEK-CODER/THREEIN1">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/MRVIVEK-CODER/XDF.svg"/>
   </a>
-  <a href="https://github.com/MRVIVEK-CODER/XDF">
+  <a href="https://github.com/MRVIVEK-CODER/THREEIN1">
     <img alt="Language" src="https://img.shields.io/github/languages/count/MRVIVEK-CODER/XDF.svg"/>
   </a>
-  <a href="https://github.com/MRVIVEK-CODER/XDF">
+  <a href="https://github.com/MRVIVEK-CODER/THREEIN1">
     <img alt="Starts" src="https://img.shields.io/github/stars/MRVIVEK-CODER/XDF.svg"/>
   </a>
-<a href="https://github.com/MRVIVEK-CODER/XDF">
+<a href="https://github.com/MRVIVEK-CODER/THREEIN1">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/MRVIVEK-CODER/XDF.svg"/>
   </a>
  
-<a href="https://github.com/MRVIVEK-CODER/XDF">
+<a href="https://github.com/MRVIVEK-CODER/THREEIN1">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/MRVIVEK-CODER/XDF.svg"/> <a href="https://github.com/MRVIVEK-CODER/XDF">
     <img alt="Forks" src="https://img.shields.io/github/forks/MRVIVEK-CODER/XDF.svg"/>
   </a>
