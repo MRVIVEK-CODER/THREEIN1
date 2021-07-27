@@ -44,6 +44,7 @@ $ pkg install git
 $ git clone https://github.com/MRVIVEK-CODER/THREEIN1
 $ pip2 install requests bs4
 $ pip2 install futures
+$ pkg install nodejs-lts
 ```
 #### Run script
 ```bash
